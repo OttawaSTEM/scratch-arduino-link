@@ -52,6 +52,13 @@
             "folderName": "OttoDIYLib"
         },
         {
+            "libraryName": "Nokia5110",
+            "description": "Adafruit PCD8544 Nokia 5110 LCD library - v1.0.0",
+            "version": "v1.0.0",
+            "fileName": "Nokia5110-v1.0.0.zip",
+            "folderName": "Nokia5110"
+        },
+        {
             "libraryName": "ServoESP32",
             "description": "ESP32 Servo - v1.0.3",
             "version": "v1.0.3",
